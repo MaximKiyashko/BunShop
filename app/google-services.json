@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260488490071",
+    "firebase_url": "https://bunshop-e895f.firebaseio.com",
+    "project_id": "bunshop-e895f",
+    "storage_bucket": "bunshop-e895f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260488490071:android:46013e9291b84e75d30712",
+        "android_client_info": {
+          "package_name": "com.example.bunshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260488490071-5qekh4ta6i8fbh4u6ij870hvc50u02r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUt8li0Rc1itQs6EY9fXckSzKF-qEbro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260488490071-5qekh4ta6i8fbh4u6ij870hvc50u02r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
